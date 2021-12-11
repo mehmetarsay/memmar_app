@@ -1,0 +1,32 @@
+2021-06-17T23:38:55+03:00 | 826e4b9ebf37b97abe18aa10ccf83709145c9fb2 | Merge pull request #13 from mehmetarsay/bilalozcan
+2021-06-17T23:37:37+03:00 | c21912458d2430c1f6ae73c894d6bfde63489081 | README.md edited
+2021-06-17T23:21:55+03:00 | c99b141dd3dc9c57e35cfc04113dac157402137f | Merge pull request #12 from mehmetarsay/bilalozcan
+2021-06-17T23:21:28+03:00 | bc77b8adfa73921054e8e603b7ab5d9f5ee7f638 | README.md edited
+2021-06-03T23:38:15+03:00 | 0a454f249910c3e63698e4f150a172683dd6cd29 | Merge pull request #11 from mehmetarsay/mehmetArsay
+2021-06-03T23:37:46+03:00 | adae7fec37a5e5b1d6cfb69d9a15b5ad6455f6e8 | end commit
+2021-06-03T22:07:33+03:00 | 0654bb3a34d05ed7f96dc00110d8f06fe07d4b12 | istatistikler eklendi
+2021-06-02T23:57:56+03:00 | d9fb055f8265b985f8eb2adc561e6d3b04de2a9f | Merge pull request #10 from mehmetarsay/mehmetArsay
+2021-06-02T23:56:42+03:00 | 17f246f5f9635f3db37c3b43c47634c7cc712f66 | istatistikler eklendi
+2021-06-01T23:34:12+03:00 | c87898385e3bac71a90f9407fe76c814e68d5a19 | tedarik listesi
+2021-06-01T19:36:22+03:00 | 616d8d2297747e65a8312ab14f0b743613ee768e | Merge pull request #9 from mehmetarsay/mehmetArsay
+2021-06-01T00:19:18+03:00 | 0ae0f1edda275fc8200e79413c8486b7994dea05 | register yapıldı
+2021-05-30T23:42:54+03:00 | 47e97d3ae654e9f1059e04444ed5dd765c8d411f | Merge pull request #8 from mehmetarsay/mehmetArsay
+2021-05-30T23:42:08+03:00 | a0906c1d0df8d1ff034ee28df51a6a593ec2ef42 | tedarikçi ekleme listeleme eklendi. fiş oluşturma listeleme eklendi ayarlar eklendi.
+2021-05-29T17:53:37+03:00 | 375639a177b9bd512bb6d12af97b2a611d4b948f | Merge pull request #7 from mehmetarsay/mehmetArsay
+2021-05-29T16:58:07+03:00 | 202be6966f1df11c1efae7c60b58bbfb341c5163 | ürün listeleme ürün ekleme çalışan ekleme giriş yapma
+2021-05-29T04:04:28+03:00 | 20375b635b89b89048d231652e7d6fb3ab6dd9a9 | Merge pull request #6 from mehmetarsay/bilalozcan
+2021-05-29T04:02:51+03:00 | a7459093a39d9479a3a3e15ef1ed36cba473378f | company create, user create, user login services completed
+2021-05-29T00:30:13+03:00 | 5968e07d52045968f1337e81204263425a629b61 | Merge pull request #5 from mehmetarsay/mehmetArsay
+2021-05-29T00:28:57+03:00 | cf54c37aa646366fc6d70b3dd53273cbbd281ef5 | login page başlandı
+2021-05-23T22:33:09+03:00 | 7df0deb1d93321ce8e6f0d6c1e7e3b2aee5b0a97 | personal page barcode search page
+2021-05-23T02:00:42+03:00 | 1679e5ff03f3188813badd5db277ce91b51a305d | ürün ekleme sayfası kaldı
+2021-05-22T23:07:30+03:00 | 7ecfe5ac0912a535aef15f2ee8486c3ebfddf76a | home page yapıldı bottom bar eklendi ürün sayfasına başlandı
+2021-05-21T00:12:56+03:00 | ac4b4895c700771f452fdcb206fe6167fca72b8a | Merge pull request #4 from mehmetarsay/bilalozcan
+2021-05-21T00:12:08+03:00 | fcc0c50b914c8ae63d0e196da753e409eba418b7 | the project scheme has been set and folders have been made.
+2021-05-20T22:41:27+03:00 | b74bed9320f75444fdd3e5e2792bbacd7ab1f5d7 | Merge pull request #3 from mehmetarsay/mehmetArsay
+2021-05-20T22:40:38+03:00 | a27f69e89654a61a62cd129002b847acaa1cef68 | .
+2021-05-20T22:39:45+03:00 | 3adf21cd153a709dfa5c57278bddc19079e7042f | Merge pull request #2 from mehmetarsay/bilalozcan
+2021-05-20T22:38:56+03:00 | f3e3e4bb97a3324ef349a5b2d76f64c938c01564 | the project scheme has been set and folders have been made.
+2021-05-20T22:19:49+03:00 | 71f9634196fb34c207cc568fc58121a855a875dd | Merge pull request #1 from mehmetarsay/mehmetArsay
+2021-05-20T22:19:04+03:00 | df2610160f93f50588ba1106340b8309d8d7c799 | paketler eklendi
+2021-11-20T21:52:07+03:00 | 19f53c488792497ff13dd9c250edc97695cf3431 | Initial commit
