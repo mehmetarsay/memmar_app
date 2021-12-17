@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/painting.dart';
 import 'package:flutter_overlay_loader/flutter_overlay_loader.dart';
 import 'package:memmar_otomasyon_mobile/core/base/base_state.dart';
 import 'package:memmar_otomasyon_mobile/model/user.dart';
@@ -77,8 +78,9 @@ class _PersonelListPageState extends BaseState<PersonelListPage> {
                               Text(
                                 context.read<PersonelListViewPage>().userList[index].email.toString(),
                                 textAlign: TextAlign.center,
+                                overflow: TextOverflow.ellipsis,
                                 style: TextStyle(
-                                    fontSize: dynamicHeight(0.02),
+                                    fontSize: dynamicHeight(0.015),
                                     fontWeight: FontWeight.w500,
                                     color: Colors.black),
                               ),

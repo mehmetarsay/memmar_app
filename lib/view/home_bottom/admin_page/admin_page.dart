@@ -51,7 +51,7 @@ class _AdminPageState extends BaseState<AdminPage> {
                         '${context.watch<AdminPageViewModel>().contents[index].text}',
                         textAlign: TextAlign.center,
                         style: TextStyle(
-                            fontSize: dynamicHeight(0.02),
+                            fontSize: dynamicHeight(0.015),
                             fontWeight: FontWeight.w500,
                             color: Colors.white),
                       ),
